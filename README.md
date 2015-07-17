@@ -206,15 +206,12 @@ Two patents filed in 2015: one for eBay, another for eBay Enterprise
 - Bundler
 - Chrome
 - CSS 3
-- CVS
-- Cygwin
 - DocStrap
 - Dōjō
 - Drupal 6 & 7
 - Eclipse
 - ESLint
 - Expect
-- Express
 - FireFox
 - Git
 - Google Analytics
@@ -248,9 +245,7 @@ Two patents filed in 2015: one for eBay, another for eBay Enterprise
 - MiniTest
 - MySQL
 - Node JS
-- NPM
 - Opera
-- Optparse
 - Oracle SQL 11
 - Oracle SQL Developer
 - OS X
@@ -267,7 +262,7 @@ Two patents filed in 2015: one for eBay, another for eBay Enterprise
 - SonarQube
 - Spring
 - SQLite 3
-- Sublime Text 2 & 3
+- Sublime Text
 - Subversion
 - TestNG
 - Tiles
