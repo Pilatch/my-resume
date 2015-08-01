@@ -3,7 +3,7 @@
 
 ## Description
 
-User Interface Architect emphasizing results-based decision making, usability, team growth, and lucid communication
+Versatile polyglot user interface architect emphasizing results-based decision making, usability, team growth, and lucid communication
 
 ## Preferred Skills
 
@@ -21,6 +21,7 @@ Game design and development, usability testing, Ruby, exhortation
 - Owned a single-client sitewide performance improvement project
 - Wrote performance testing tools for results-based optimization
   - integrated into our automated regression test modules
+- Provided iterative mobile-first solution for clients considering responsive design
 - Weaned developers off an antiquated compression system and onto a web service
   - automated said web service however possible
 - Oversaw drafting of user interface coding standards
@@ -31,7 +32,7 @@ Game design and development, usability testing, Ruby, exhortation
 - Performed code reviews
 - Critiqued and invited criticism at the Architecture Review Board
 - Presented a crash course in object oriented JavaScript to the other architects
-- Helped developers realize their workflow expectations
+- Helped developers optimize their workflow
 
 #### Senior Web Developer
 
@@ -87,6 +88,7 @@ Game design and development, usability testing, Ruby, exhortation
 
 - [Directed creation of physical playing card art](https://99designs.com/other-design-tasks/contests/suit-poker-tm-card-deck-package-free-advertising-45992)
 - Themed the web site
+  - experimented with multiple themes for adaptive web design
 - Developed environment migration system with backups
 - Created module for static asset management and performance
 - Contributed to a popular open source e-commerce module
@@ -195,13 +197,18 @@ Two patents filed in 2015: one for eBay, another for eBay Enterprise
 ## Technology Experience
 
 - Active Record
+- Adaptive Web Design
 - Adobe Illustrator
 - Adobe Photoshop
+- Agile Methodologies
 - AJAX
 - Ant
+- Atlassian Confluence
+- Atlassian Jira
 - Apache 2
 - Bash 4
 - Bind 9
+- Bootstrap 3
 - Bower
 - Bundler
 - Chrome
@@ -245,6 +252,7 @@ Two patents filed in 2015: one for eBay, another for eBay Enterprise
 - MiniTest
 - MySQL
 - Node JS
+- Open Stack
 - Opera
 - Oracle SQL 11
 - Oracle SQL Developer
@@ -255,8 +263,10 @@ Two patents filed in 2015: one for eBay, another for eBay Enterprise
 - Prototype
 - Rally
 - Red Hat Enterprise Linux 5 & 6
+- Responsive Web Design
 - Ruby 1.9 – 2.2
 - Safari
+- Scrum
 - Selenium WebDriver
 - Sinatra
 - SonarQube
