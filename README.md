@@ -46,7 +46,7 @@ Game design and development, usability testing, Ruby, exhortation
 - Contributed performance enhancements
 - Frequently researched and compared competing technologies
 - Disentangled logic and presentation to implement multi-select facets for search
-- Lead technical resource for multiple projects
+- Lead multiple projects as the primary technical resource
 
 ### MetLife
 
