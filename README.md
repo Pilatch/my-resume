@@ -17,16 +17,17 @@ Game design and development, usability testing, Ruby, exhortation
 
 ##### 2015 - Present
 
-- Owned a multi-client checkout flow performance improvement project
-- Owned a single-client sitewide performance improvement project
+- Managed a multi-client checkout flow performance improvement project
+- Managed a single-client sitewide performance improvement project
 - Wrote performance testing tools for results-based optimization
   - integrated into our automated regression test modules
+  - blocked commits that degraded performance
 - Provided iterative mobile-first solution for clients considering responsive design
 - Weaned developers off an antiquated compression system and onto a web service
   - automated said web service however possible
 - Oversaw drafting of user interface coding standards
 - Took responsibility for tailoring the JavaScript style guide to [our organization's needs](http://geek.bluemangointeractive.com/5-reasons-why-you-need-a-javascript-style-guide/#comment-2055113226)
-- Sought input and consensus among senior web developers
+  - sought input and consensus among senior web developers
 - Configured technical debt analysis that reinforced our style guides
 - Encouraged web developers to write unit tests
 - Performed code reviews
