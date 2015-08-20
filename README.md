@@ -34,6 +34,7 @@ Game design and development, usability testing, Ruby, exhortation
 - Critiqued and invited criticism at the Architecture Review Board
 - Presented a crash course in object oriented JavaScript to the other architects
 - Helped developers optimize their workflow
+- Reviewed client communications to improve technical accuracy
 
 #### Senior Web Developer
 
@@ -245,12 +246,14 @@ Two patents filed in 2015: one for eBay, another for eBay Enterprise
 - Knockout 3
 - LazyLoad
 - LESS
+- Meteor
 - Microsoft Access
 - Microsoft Excel
 - Microsoft Outlook
 - Microsoft PowerPoint
 - Microsoft Word
 - MiniTest
+- MongoDB
 - MySQL
 - Node JS
 - Open Stack
