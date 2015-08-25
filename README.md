@@ -3,7 +3,7 @@
 
 ## Description
 
-Versatile polyglot user interface architect emphasizing results-based decision making, usability, team growth, and lucid communication
+Polyglot web architect emphasizing results-based decision making, usability, team growth, and lucid communication
 
 ## Preferred Skills
 
@@ -22,33 +22,33 @@ Game design and development, usability testing, Ruby, exhortation
 - Wrote performance testing tools for results-based optimization
   - integrated into our automated regression test modules
   - blocked commits that degraded performance
-- Provided iterative mobile-first solution for clients considering responsive design
-- Weaned developers off an antiquated compression system and onto a web service
-  - automated said web service however possible
-- Oversaw drafting of user interface coding standards
-- Took responsibility for tailoring the JavaScript style guide to [our organization's needs](http://geek.bluemangointeractive.com/5-reasons-why-you-need-a-javascript-style-guide/#comment-2055113226)
-  - sought input and consensus among senior web developers
-- Configured technical debt analysis that reinforced our style guides
-- Encouraged web developers to write unit tests
+- Provided iterative mobile-first responsive design solution
 - Performed code reviews
+- Optimized developers' workflows
+- Oversaw drafting of user interface coding standards
+- Tailored the JavaScript style guide to [our organization's needs](http://geek.bluemangointeractive.com/5-reasons-why-you-need-a-javascript-style-guide/#comment-2055113226)
+  - sought input and consensus among lead web developers
+- Configured technical debt analysis, reinforcing style guides
+- Recommended web developers write unit tests
+- Transitioned developers from an antiquated compression system
 - Critiqued and invited criticism at the Architecture Review Board
 - Presented a crash course in object oriented JavaScript to the other architects
-- Helped developers optimize their workflow
 - Reviewed client communications to improve technical accuracy
 
-#### Senior Web Developer
+#### Web Developer 3
 
 ##### 2010 - 2015
 
-- Performed iterative usability testing and development for In Store Pickup
+- Performed iterative usability testing
+- Deployed an internal static asset compression web service
 - Delivered a minimal-footprint, cross-platform, extensible product for In Store Pickup
 - Delivered a checkout improvement project to over sixty clients
-- Surveyed end-users before creating multi-environment WebLogic compiler tools
-- Recognized the need for performance tools improvements
+- Surveyed end-users before creating internal tools
+- Recognized the need for performance testing in the development cycle
+- Researched competing technologies
+- Disentangled logic and presentation
 - Contributed performance enhancements
-- Frequently researched and compared competing technologies
-- Disentangled logic and presentation to implement multi-select facets for search
-- Lead multiple projects as the primary technical resource
+- Lead projects as primary technical resource
 
 ### MetLife
 
@@ -56,11 +56,10 @@ Game design and development, usability testing, Ruby, exhortation
 
 ##### 2009 - 2010
 
-- Wrote an internal JavaScript library to assist page design
-  - enabled rapid generation of visual style guide compliant mockups
-  - documented thoroughly
 - Designed pages and solved problems for the Extreme Make Over project
-- Authored a push email notification system
+- Wrote an internal JavaScript library to assist page design
+  - enabled rapid generation of visual style-guide compliant mockups
+  - documented
 
 ### New Horizons
 
@@ -68,8 +67,8 @@ Game design and development, usability testing, Ruby, exhortation
 
 ##### 2007 - 2009
 
-- Taught adults advanced applications and beginner programming courses
-- Received exceptional evaluations for clarity of instruction and sense of humor
+- Taught adults advanced applications, and beginner programming courses
+- Evaluated exceptionally for clarity of instruction and sense of humor ʕ•ᴥ•ʔ
 
 ### Phi Delta Kappa, Montclair State University chapter
 
@@ -77,26 +76,28 @@ Game design and development, usability testing, Ruby, exhortation
 
 ##### 2000 - 2002
 
-- Created template for monthly newsletter
+- Templated monthly newsletter
 - Designed, deployed, and updated static web pages
 
 ## Personal Projects
 
 ### [Pilatch Card Games](http://pilatch.com)
 
-#### Game Designer and Developer, Web Architect, Art Director
+#### Art Director, Game Designer and Developer, Web Architect
 
 ##### 2011 - Present
 
 - [Directed creation of physical playing card art](https://99designs.com/other-design-tasks/contests/suit-poker-tm-card-deck-package-free-advertising-45992)
 - Themed the web site
   - experimented with multiple themes for adaptive web design
-- Developed environment migration system with backups
-- Created module for static asset management and performance
-- Contributed to a popular open source e-commerce module
+  - trashed it because of the overhead
+- Developed environment migration/backup system
+- [Created module for static asset management and performance](https://www.drupal.org/sandbox/beefzilla/2108701)
+- [Contributed to a popular open source e-commerce module](https://www.drupal.org/commitlog/commit/3012/aeae16a7f832c42398a0c0f37b5dbd827dec6c59)
 - Formulated trigonometric animations for [the product page's](http://pilatch.com/cards) card arc
-- Developed a demonstration library with inline integration tests
-  - leveraged design patterns: observer, command, template, strategy, factory, MVC
+- Developed a demonstration library
+  - used design patterns: observer, command, template, strategy, factory, MVC
+  - implemented demonstrations with inline assertions
 
 ### [AssetLoader](https://github.com/Pilatch/AssetLoader/blob/master/README.md)
 
@@ -104,12 +105,11 @@ Game design and development, usability testing, Ruby, exhortation
 
 ##### 2015
 
-- Externalized from the high-performance In Store Pickup product
-- Published as a [Bower module](http://bower.io/search/?q=asset-loader)
 - Experimented with managing front-end dependencies across many clients
+- Published as a [Bower module](http://bower.io/search/?q=asset-loader)
 - Packaged with cross-browser unit test specifications
 - Compressed following a proprietary distribution filter
-- Documented thoroughly
+- Documented
 
 ### Recipe Content Module
 
@@ -117,18 +117,19 @@ Game design and development, usability testing, Ruby, exhortation
 
 ##### 2010 - 2011
 
-- Leveraged USDA ingredient data to compute nutrition labels for users’ recipes
-- Implemented extensive administrative functionality for evolving user needs and customizability
+- Computed nutrition labels for users’ recipes by leveraging USDA ingredient data
+- Implemented administrative functionality for evolving user needs and customizability
 - Employed a web designer/developer
+- Migrated data
 
-### [Variable deck and hand-size Poker-like game probability generator](https://github.com/Pilatch-Card-Games/game-sim )
+### [Poker-like game probability generator](https://github.com/Pilatch-Card-Games/game-sim )
 
 #### Software Engineer
 
 ##### 2009 - 2014
 
-- Programmatically solved a problem that was mathematically daunting
 - [Informed game design decisions](http://pilatch.com/blog/Ethan/Rags-n-Riches)
+- Solved a mathematically daunting problem
 
 ### [TypeFun.org](https://web.archive.org/web/20140105005006/http://typefun.org/)
 
@@ -160,6 +161,17 @@ Game design and development, usability testing, Ruby, exhortation
 - Phi Delta Kappa Outstanding Newsletter Award
 - National Merit Scholarship
 
+## Usability
+
+- Insisted on iterative usability testing before deploying checkout flow changes
+- Designed users' favorite feature in online enrollment for MetLife’s _Extreme Makeover_
+- Identified areas for improvement in user experience for In-Store Pickup products
+- Ensured cross-platform user input accessibility on payment pages
+- Surveyed future end-users of compiler tools before determining interface
+- Tested information architecture and web design of Pilatch.com via [Usability Hub](http://usabilityhub.com)
+- Performed iterative user testing of Pilatch's physical playing card and deck design 
+  - for structure, visual elements, maintainability, and __fun__
+
 ## Innovation
 
 Two patents filed in 2015: one for eBay, another for eBay Enterprise
@@ -168,15 +180,15 @@ Two patents filed in 2015: one for eBay, another for eBay Enterprise
 
 ### eBay Enterprise
 
-- Evangelized front-end performance tools
-- Offered JSP pre-compiler tools to management as a solution
+- Encouraged cross-organizational teamwork
 - Presented iterative usability testing approach
 - Presented best practices for front-end performance
-- Encouraged cross-organizational teamwork
+- Presented compiler tools process
+- Evangelized front-end performance tools
 - Lead implementation of Inline Error Messaging project
 - Lead implementation of In-Store Pickup products
 - Lead implementation of credit card issuer identifying number system upgrades
-- Interviewed, trained, and assisted junior developers on various projects
+- Interviewed, trained, and assisted junior developers
 
 ### Other
 
@@ -184,17 +196,6 @@ Two patents filed in 2015: one for eBay, another for eBay Enterprise
 - Trained employees at AAA service center 513
 - Served as Computer Coordinator and Crew Chief at Helyar House
 - Supervised junior staff at AMC Theaters
-
-## Usability
-
-- Insisted on iterative usability testing before deploying checkout flow changes
-- Identified areas for improvement in user experience for In-Store Pickup products
-- Went _above and beyond_ in cross-platform user input accessibility in checkout experience
-- Surveyed future end-users of JSP pre-compiler tools before determining interface
-- User-tested information architecture and web design of Pilatch.com via [Usability Hub](http://usabilityhub.com)
-- Designed users' favorite feature in online enrollment for MetLife’s _Extreme Makeover_
-- Performed iterative user testing of Pilatch's physical playing card and deck design 
-  - for structure, visual elements, maintainability, and fun
 
 ## Technology Experience
 
@@ -278,6 +279,7 @@ Two patents filed in 2015: one for eBay, another for eBay Enterprise
 - SQLite 3
 - Sublime Text
 - Subversion
+- Test Driven Development
 - TestNG
 - Tiles
 - Tobii Studio
