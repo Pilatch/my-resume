@@ -271,6 +271,7 @@ Two patents filed in 2015: one for eBay, another for eBay Enterprise
 - Responsive Web Design
 - Ruby 1.9 – 2.2
 - Safari
+- Scientific Method
 - Scrum
 - Selenium WebDriver
 - Sinatra
