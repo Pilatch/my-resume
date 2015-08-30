@@ -225,6 +225,7 @@ Two patents filed in 2015: one for eBay, another for eBay Enterprise
 - FireFox
 - Git
 - Google Analytics
+- Google Fonts
 - Google Gson
 - Grunt
 - Gulp
