@@ -13,12 +13,13 @@ Game design and development, usability testing, Ruby, exhortation
 
 ### eBay Enterprise
 
-#### _The_ User Interface Architect
+#### Web Architect
 
 ##### 2015 - Present
 
+- Managed a sitewide performance improvement project
 - Managed a multi-client checkout flow performance improvement project
-- Managed a single-client sitewide performance improvement project
+  - analyzed performance improvements in production
 - Wrote performance testing tools for results-based optimization
   - integrated into our automated regression test modules
   - blocked commits that degraded performance
@@ -26,19 +27,21 @@ Game design and development, usability testing, Ruby, exhortation
 - Performed code reviews
 - Optimized developers' workflows
 - Oversaw drafting of user interface coding standards
-- Tailored the JavaScript style guide to [our organization's needs](http://geek.bluemangointeractive.com/5-reasons-why-you-need-a-javascript-style-guide/#comment-2055113226)
   - sought input and consensus among lead web developers
+  - tailored the JavaScript style guide to [our organization's needs](http://geek.bluemangointeractive.com/5-reasons-why-you-need-a-javascript-style-guide/#comment-2055113226)
 - Configured technical debt analysis, reinforcing style guides
 - Recommended web developers write unit tests
 - Transitioned developers from an antiquated compression system
 - Critiqued and invited criticism at the Architecture Review Board
 - Presented a crash course in object oriented JavaScript to the other architects
+- Identified security liabilities inherent in our technology and culture
 - Reviewed client communications to improve technical accuracy
 
 #### Web Developer 3
 
 ##### 2010 - 2015
 
+- Identified revenue opportunity of multi-tenant checkout performance improvements
 - Performed iterative usability testing
 - Deployed an internal static asset compression web service
 - Delivered a minimal-footprint, cross-platform, extensible product for In Store Pickup
@@ -48,7 +51,6 @@ Game design and development, usability testing, Ruby, exhortation
 - Researched competing technologies
 - Disentangled logic and presentation
 - Contributed performance enhancements
-- Lead projects as primary technical resource
 
 ### MetLife
 
@@ -180,7 +182,9 @@ Two patents filed in 2015: one for eBay, another for eBay Enterprise
 
 ### eBay Enterprise
 
-- Encouraged cross-organizational teamwork
+- Recognized as the subject matter expert on the user-interface technology layer
+- Interviewed, trained, and assisted junior developers
+- Presented approaches for mitigating cross-site scripting vulnerabilities
 - Presented iterative usability testing approach
 - Presented best practices for front-end performance
 - Presented compiler tools process
@@ -188,7 +192,7 @@ Two patents filed in 2015: one for eBay, another for eBay Enterprise
 - Lead implementation of Inline Error Messaging project
 - Lead implementation of In-Store Pickup products
 - Lead implementation of credit card issuer identifying number system upgrades
-- Interviewed, trained, and assisted junior developers
+- Encouraged cross-organizational teamwork
 
 ### Other
 
@@ -220,9 +224,11 @@ Two patents filed in 2015: one for eBay, another for eBay Enterprise
 - Dōjō
 - Drupal 6 & 7
 - Eclipse
+- ECMAScript 6
 - ESLint
 - Expect
 - FireFox
+- FishEye
 - Git
 - Google Analytics
 - Google Fonts
@@ -247,6 +253,7 @@ Two patents filed in 2015: one for eBay, another for eBay Enterprise
 - Karma
 - Knockout 3
 - LazyLoad
+- Lean Software Development
 - LESS
 - Meteor
 - Microsoft Access
@@ -274,9 +281,11 @@ Two patents filed in 2015: one for eBay, another for eBay Enterprise
 - Safari
 - Scientific Method
 - Scrum
+- SCSS
 - Selenium WebDriver
 - Sinatra
 - SonarQube
+- SOSTA mPulse API
 - Spring
 - SQLite 3
 - Sublime Text
