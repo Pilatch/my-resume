@@ -17,7 +17,7 @@ Game design and development, usability testing, Ruby, exhortation
 
 ##### 2015 - Present
 
-- Managed a sitewide performance improvement project
+- Managed sitewide performance improvement projects
 - Managed a multi-client checkout flow performance improvement project
   - analyzed performance improvements in production
 - Wrote performance testing tools for results-based optimization
@@ -148,6 +148,7 @@ Game design and development, usability testing, Ruby, exhortation
 
 ### eBay Enterprise
 
+- Spot Award
 - Critical Talent Award
 - Excellence Delivered award for the _Save the Company_ project
 - Excellence Delivered award for _Make It Better_ Checkout

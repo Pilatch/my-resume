@@ -16,6 +16,7 @@
 
 ## Awards
 
+- _Spot_
 - _Critical Talent_
 - _Excellence Delivered_
 
