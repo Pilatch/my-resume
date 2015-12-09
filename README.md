@@ -1,6 +1,5 @@
-# Ethan B Martin
+# [Ethan B Martin](mailto:ethan@pilatch.com)
 ## Web Architect
-### [ethan@pilatch.com](ethan@pilatch.com)
 
 ## Recent Employers
 
@@ -8,11 +7,12 @@
 - MetLife, 2009 - 2010
 - New Horizons, 2007 - 2009
 
-## Relevant Work
+## Work
 
-- Led technical implementation of user-interface projects
-- Performed iterative usability testing
-- Presented approaches for mitigating security risks
+- Designed and led large web-facing implementations
+- Conducted iterative usability testing
+- Improved web application performance
+- Mitigated security risks
 
 ## Awards
 
@@ -22,7 +22,7 @@
 
 ### Author of patent filings
 
-## Formal Education
+## Education
 
 ### Keller Graduate School of Management, New York City
 
