@@ -15,7 +15,7 @@ Game design and development, usability testing, Ruby, exhortation
 
 #### Web Architect
 
-##### 2015 - Present
+##### 2014 - Present
 
 - Managed sitewide performance improvement projects
 - Managed a multi-client checkout flow performance improvement project
@@ -39,7 +39,7 @@ Game design and development, usability testing, Ruby, exhortation
 
 #### Web Developer 3
 
-##### 2010 - 2015
+##### 2010 - 2014
 
 - Identified revenue opportunity of multi-tenant checkout performance improvements
 - Performed iterative usability testing
