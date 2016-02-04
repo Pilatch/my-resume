@@ -23,6 +23,7 @@ Game design and development, usability testing, Ruby, exhortation
 - Wrote performance testing tools for results-based optimization
   - integrated into our automated regression test modules
   - blocked commits that degraded performance
+- Guided web-store remediation for _Americans with Disabilities Act_ compliance
 - Provided iterative mobile-first responsive design solution
 - Performed code reviews
 - Optimized developers' workflows
@@ -231,6 +232,7 @@ Two patents filed in 2015: one for eBay, another for eBay Enterprise
 - FireFox
 - FishEye
 - Git
+- Gitlab
 - Google Analytics
 - Google Fonts
 - Google Gson
@@ -298,6 +300,7 @@ Two patents filed in 2015: one for eBay, another for eBay Enterprise
 - Tomcat 7
 - Ubuntu Desktop & Server 10 - 14
 - Usability Hub
+- Web Accessability Evaluation Tool (WAVE for Chrome)
 - Weblogic 10
 - Windows XP & 7
 - Xen
