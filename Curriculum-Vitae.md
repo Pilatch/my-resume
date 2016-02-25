@@ -3,7 +3,7 @@
 
 ## Description
 
-Polyglot web architect emphasizing results-based decision making, usability, team growth, and lucid communication
+Polyglot web/software architect emphasizing results-based decision making, usability, team growth, and lucid communication
 
 ## Preferred Skills
 
@@ -178,7 +178,7 @@ Game design and development, usability testing, Ruby, exhortation
 
 ## Innovation
 
-Two patents filed in 2015: one for eBay, another for eBay Enterprise
+Sole author of two patents filed for eBay in 2015
 
 ## Leadership
 
@@ -219,7 +219,6 @@ Two patents filed in 2015: one for eBay, another for eBay Enterprise
 - Bind 9
 - Bootstrap 3
 - Bower
-- Bundler
 - Chrome
 - CSS 3
 - DocStrap
@@ -280,11 +279,11 @@ Two patents filed in 2015: one for eBay, another for eBay Enterprise
 - Rally
 - Red Hat Enterprise Linux 5 & 6
 - Responsive Web Design
-- Ruby 1.9 – 2.2
+- Ruby 1.9 – 2.3
 - Safari
 - Scientific Method
 - Scrum
-- SCSS
+- SASS (SCSS)
 - Selenium WebDriver
 - Sinatra
 - SonarQube
@@ -300,7 +299,7 @@ Two patents filed in 2015: one for eBay, another for eBay Enterprise
 - Tomcat 7
 - Ubuntu Desktop & Server 10 - 14
 - Usability Hub
-- Web Accessability Evaluation Tool (WAVE for Chrome)
+- Web Accessability Evaluation Tool (WAVE)
 - Weblogic 10
 - Windows XP & 7
 - Xen
