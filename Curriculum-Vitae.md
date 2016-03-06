@@ -30,7 +30,7 @@ Game design and development, usability testing, Ruby, exhortation
 - Optimized developers' workflows
 - Oversaw drafting of user interface coding standards
   - sought input and consensus among lead web developers
-  - tailored the JavaScript style guide to [our organization's needs](http://geek.bluemangointeractive.com/5-reasons-why-you-need-a-javascript-style-guide/#comment-2055113226)
+  - tailored the [JavaScript style guide](https://github.com/Pilatch/front-end-style-guides) to [our organization's needs](http://geek.bluemangointeractive.com/5-reasons-why-you-need-a-javascript-style-guide/#comment-2055113226)
 - Configured technical debt analysis, reinforcing style guides
 - Recommended web developers write unit tests
 - Transitioned developers from an antiquated compression system
