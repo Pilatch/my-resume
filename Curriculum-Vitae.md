@@ -23,6 +23,7 @@ Game design and development, usability testing, Ruby, exhortation
 - Wrote performance testing tools for results-based optimization
   - integrated into our automated regression test modules
   - blocked commits that degraded performance
+- Performed usability testing
 - Guided web-store remediation for _Americans with Disabilities Act_ compliance
 - Provided iterative mobile-first responsive design solution
 - Performed code reviews
@@ -60,6 +61,7 @@ Game design and development, usability testing, Ruby, exhortation
 ##### 2009 - 2010
 
 - Designed pages and solved problems for the Extreme Make Over project
+- Performed usability testing
 - Wrote an internal JavaScript library to assist page design
   - enabled rapid generation of visual style-guide compliant mockups
   - documented
