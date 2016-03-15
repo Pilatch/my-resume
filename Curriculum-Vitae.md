@@ -3,7 +3,7 @@
 
 ## Description
 
-Polyglot web/software architect emphasizing results-based decision making, usability, team growth, and lucid communication
+Polyglot web software architect/lead developer emphasizing results-based decision making, usability, team growth, and lucid communication
 
 ## Preferred Skills
 
@@ -17,8 +17,8 @@ Game design and development, usability testing, Ruby, exhortation
 
 ##### 2014 - Present
 
-- Managed sitewide performance improvement projects
-- Managed a multi-client checkout flow performance improvement project
+- Led sitewide performance improvement projects
+- Led a multi-client checkout flow performance improvement project
   - analyzed performance improvements in production
 - Wrote performance testing tools for results-based optimization
   - integrated into our automated regression test modules

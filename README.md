@@ -1,5 +1,5 @@
 # [Ethan B Martin](mailto:ethan@pilatch.com)
-## Web/Software Architect
+## Web Architect/Lead Developer
 
 ## Recent Employers
 
