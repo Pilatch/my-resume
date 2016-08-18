@@ -3,7 +3,8 @@
 
 ## Recent Employers
 
-- Ebay, 2010 - Present
+- Comcast, 2016 - Present
+- Ebay, 2010 - 2016
 - MetLife, 2009 - 2010
 - New Horizons, 2007 - 2009
 

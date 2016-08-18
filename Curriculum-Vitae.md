@@ -7,15 +7,38 @@ Polyglot web software architect/lead developer emphasizing results-based decisio
 
 ## Preferred Skills
 
-Game design and development, usability testing, Ruby, exhortation
+Game design and development, usability testing, JavaScript, Ruby, Java, exhortation
 
 ## Employment
+
+### Comcast
+
+#### Consultant via TekSystems
+
+##### 2016 - Present
+
+- Wrote web application code using Polymer
+- Provided architectural guidance
+  - led a small sub-team
+- Improved feature development collaboration process
+- Performed code reviews
+- Acted as Srum Master
+- Identified accessibility issues
+- Wrote technical user stories
+- Solved and documented complex mobile device testing setup
+- Codified predominant JavaScript style into an ESLint ruleset
+  - attained consensus on contested style rules
+  - improved the lint precommit hook
+  - automated wholesale fixes of linter violations
+- Improved NightWatch integration tests to honor application configuration
+  - guided junior developers in DRY coding practices, organization, and code clarity
+- Increased unit test coverage
 
 ### eBay Enterprise
 
 #### Web Architect
 
-##### 2014 - Present
+##### 2014 - 2016
 
 - Led sitewide performance improvement projects
 - Led a multi-client checkout flow performance improvement project
@@ -106,7 +129,7 @@ Game design and development, usability testing, Ruby, exhortation
 
 ### [AssetLoader](https://github.com/Pilatch/AssetLoader/blob/master/README.md)
 
-#### Software Engineer
+#### JavaScript Software Engineer
 
 ##### 2015
 
@@ -118,7 +141,7 @@ Game design and development, usability testing, Ruby, exhortation
 
 ### Recipe Content Module
 
-#### Technical Lead
+#### PHP Technical Lead
 
 ##### 2010 - 2011
 
@@ -129,7 +152,7 @@ Game design and development, usability testing, Ruby, exhortation
 
 ### [Poker-like game probability generator](https://github.com/Pilatch-Card-Games/game-sim )
 
-#### Software Engineer
+#### Java Software Engineer
 
 ##### 2009 - 2014
 
@@ -213,6 +236,7 @@ Sole author of two patents filed for eBay in 2015
 - Adobe Photoshop
 - Agile Methodologies
 - AJAX
+- AMD
 - Ant
 - Atlassian Confluence
 - Atlassian Jira
@@ -222,6 +246,7 @@ Sole author of two patents filed for eBay in 2015
 - Bootstrap 3
 - Bower
 - Chrome
+- Compass
 - CSS 3
 - DocStrap
 - Dōjō
@@ -232,7 +257,9 @@ Sole author of two patents filed for eBay in 2015
 - Expect
 - FireFox
 - FishEye
+- Gerrit
 - Git
+- Github Enterprise
 - Gitlab
 - Google Analytics
 - Google Fonts
@@ -241,6 +268,7 @@ Sole author of two patents filed for eBay in 2015
 - Gulp
 - HTML 4 & 5
 - Internet Explorer 6 - 11
+- Istanbul
 - Jade
 - Jasmine
 - Java
@@ -268,6 +296,7 @@ Sole author of two patents filed for eBay in 2015
 - MiniTest
 - MongoDB
 - MySQL
+- Nightwatch
 - Node JS
 - Open Stack
 - Opera
@@ -277,6 +306,7 @@ Sole author of two patents filed for eBay in 2015
 - Nginx
 - Nokogiri
 - PHP 5
+- Polymer
 - Prototype
 - Rally
 - Red Hat Enterprise Linux 5 & 6
@@ -286,8 +316,9 @@ Sole author of two patents filed for eBay in 2015
 - Scientific Method
 - Scrum
 - SASS (SCSS)
-- Selenium WebDriver
+- Selenium WebDriver (Java)
 - Sinatra
+- Slack
 - SonarQube
 - SOSTA mPulse API
 - Spring
