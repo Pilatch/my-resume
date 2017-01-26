@@ -3,36 +3,32 @@
 
 ## Description
 
-Polyglot web software architect/lead developer emphasizing results-based decision making, usability, team growth, and lucid communication
+Polyglot web software architect emphasizing results-based decision making, usability, team growth, and lucid communication
 
 ## Preferred Skills
 
-Game design and development, usability testing, JavaScript, Ruby, Java, exhortation
+JavaScript, web components, Elm, Ruby, Java, usability testing, exhortation, game development
 
 ## Employment
 
 ### Comcast
 
-#### Consultant via TekSystems
+#### Web Technology Consultant \(via TekSystems\)
 
 ##### 2016 - Present
 
-- Wrote web application code using Polymer
-- Provided architectural guidance
-  - led a small sub-team
+- Defended egalitarian scrum culture from bottlenecks
+- Provided architectural guidance focused on productivity
+- Identified and facilitated solutions for technical debt
 - Improved feature development collaboration process
-- Performed code reviews
-- Acted as Srum Master
-- Identified accessibility issues
-- Wrote technical user stories
-- Solved and documented complex mobile device testing setup
-- Codified predominant JavaScript style into an ESLint ruleset
-  - attained consensus on contested style rules
-  - improved the lint precommit hook
-  - automated wholesale fixes of linter violations
-- Improved NightWatch integration tests to honor application configuration
-  - guided junior developers in DRY coding practices, organization, and code clarity
-- Increased unit test coverage
+- Wrote web application code using Polymer
+- Reviewed the majority of production code prioritizing a priori understandability
+- Addressed accessibility liabilities before public launch
+- Codified style guide and review process
+- Guided developers in coding practices, organization, and code clarity
+- Solved and documented complex OAuth-related mobile device testing setup
+- Increased and enforced high unit test coverage
+- Improved integration tests
 
 ### eBay Enterprise
 
@@ -49,13 +45,13 @@ Game design and development, usability testing, JavaScript, Ruby, Java, exhortat
 - Performed usability testing
 - Guided web-store remediation for _Americans with Disabilities Act_ compliance
 - Provided iterative mobile-first responsive design solution
-- Performed code reviews
+- Reviewed code
 - Optimized developers' workflows
 - Oversaw drafting of user interface coding standards
   - sought input and consensus among lead web developers
   - tailored the [JavaScript style guide](https://github.com/Pilatch/front-end-style-guides) to [our organization's needs](http://geek.bluemangointeractive.com/5-reasons-why-you-need-a-javascript-style-guide/#comment-2055113226)
 - Configured technical debt analysis, reinforcing style guides
-- Recommended web developers write unit tests
+- Demonstrated how web developers could write unit tests for our legacy platform
 - Transitioned developers from an antiquated compression system
 - Critiqued and invited criticism at the Architecture Review Board
 - Presented a crash course in object oriented JavaScript to the other architects
@@ -75,7 +71,6 @@ Game design and development, usability testing, JavaScript, Ruby, Java, exhortat
 - Recognized the need for performance testing in the development cycle
 - Researched competing technologies
 - Disentangled logic and presentation
-- Contributed performance enhancements
 
 ### MetLife
 
@@ -87,7 +82,6 @@ Game design and development, usability testing, JavaScript, Ruby, Java, exhortat
 - Performed usability testing
 - Wrote an internal JavaScript library to assist page design
   - enabled rapid generation of visual style-guide compliant mockups
-  - documented
 
 ### New Horizons
 
@@ -111,7 +105,7 @@ Game design and development, usability testing, JavaScript, Ruby, Java, exhortat
 
 ### [Pilatch Card Games](http://pilatch.com)
 
-#### Art Director, Game Designer and Developer, Web Architect
+#### Art Director, Game Designer and Developer, Web _Everything_
 
 ##### 2011 - Present
 
@@ -157,7 +151,7 @@ Game design and development, usability testing, JavaScript, Ruby, Java, exhortat
 ##### 2009 - 2014
 
 - [Informed game design decisions](http://pilatch.com/blog/Ethan/Rags-n-Riches)
-- Solved a mathematically daunting problem
+- Solved a mathematically unsustainable problem
 
 ### [TypeFun.org](https://web.archive.org/web/20140105005006/http://typefun.org/)
 
@@ -174,8 +168,8 @@ Game design and development, usability testing, JavaScript, Ruby, Java, exhortat
 
 ### eBay Enterprise
 
-- Spot Award
 - Critical Talent Award
+- Spot Award
 - Excellence Delivered award for the _Save the Company_ project
 - Excellence Delivered award for _Make It Better_ Checkout
 
@@ -188,7 +182,7 @@ Game design and development, usability testing, JavaScript, Ruby, Java, exhortat
 
 - ETS/Praxis Recognition of Excellence in English Language, Literature, and Composition
 - Phi Delta Kappa Outstanding Newsletter Award
-- National Merit Scholarship
+- Regional Math League Champion
 
 ## Usability
 
@@ -198,7 +192,7 @@ Game design and development, usability testing, JavaScript, Ruby, Java, exhortat
 - Ensured cross-platform user input accessibility on payment pages
 - Surveyed future end-users of compiler tools before determining interface
 - Tested information architecture and web design of Pilatch.com via [Usability Hub](http://usabilityhub.com)
-- Performed iterative user testing of Pilatch's physical playing card and deck design 
+- Performed iterative user testing of Pilatch's physical playing card and deck design
   - for structure, visual elements, maintainability, and __fun__
 
 ## Innovation
@@ -304,6 +298,7 @@ Sole author of two patents filed for eBay in 2015
 - Oracle SQL Developer
 - OS X
 - Nginx
+- Nightwatch
 - Nokogiri
 - PHP 5
 - Polymer
