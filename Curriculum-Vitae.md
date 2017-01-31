@@ -263,7 +263,6 @@ Sole author of two patents filed for eBay in 2015
 - HTML 4 & 5
 - Internet Explorer 6 - 11
 - Istanbul
-- Jade
 - Jasmine
 - Java
 - JavaScript
@@ -303,6 +302,7 @@ Sole author of two patents filed for eBay in 2015
 - PHP 5
 - Polymer
 - Prototype
+- Pug
 - Rally
 - Red Hat Enterprise Linux 5 & 6
 - Responsive Web Design

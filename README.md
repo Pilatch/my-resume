@@ -33,6 +33,10 @@ Web Architect supporting teams driven by innovation and collaboration
 - [eBay Budget](http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PG01&s1=20160292773&OS=20160292773&RS=20160292773)
 - [Static Asset References](http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PG01&s1=20160335312&OS=20160335312&RS=20160335312)
 
+## Technology
+
+Apache Server, CSS, Drupal, Git, HTML, Java EE, JavaScript, JSP, Linux, Node, PHP, Polymer, Ruby, SQL, Tobii Studio... [more](https://github.com/Pilatch/my-resume/blob/master/Curriculum-Vitae.md#technology-experience)
+
 ## Personal Projects
 
 ### [Pilatch Card Games](http://pilatch.com)
