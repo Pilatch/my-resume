@@ -247,6 +247,7 @@ Sole author of two patents filed for eBay in 2015
 - Drupal 6 & 7
 - Eclipse
 - ECMAScript 6
+- Elm
 - ESLint
 - Expect
 - FireFox
@@ -260,6 +261,7 @@ Sole author of two patents filed for eBay in 2015
 - Google Gson
 - Grunt
 - Gulp
+- HAL
 - HTML 4 & 5
 - Internet Explorer 6 - 11
 - Istanbul
@@ -306,6 +308,7 @@ Sole author of two patents filed for eBay in 2015
 - Rally
 - Red Hat Enterprise Linux 5 & 6
 - Responsive Web Design
+- REST
 - Ruby 1.9 – 2.3
 - Safari
 - Scientific Method

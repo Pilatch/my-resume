@@ -35,9 +35,9 @@ Web Architect supporting teams driven by innovation and collaboration
 
 ## Technology
 
-Apache Server, CSS, Drupal, Git, HTML, Java EE, JavaScript, JSP, Linux, Node, PHP, Polymer, Ruby, SQL, Tobii Studio... [more](https://github.com/Pilatch/my-resume/blob/master/Curriculum-Vitae.md#technology-experience)
+Apache Server, CSS, Drupal, Elm, Git, HAL, HTML, Java EE, JavaScript, Linux, Node, PHP, Polymer, REST, Ruby, SASS, SQL, Tobii Studio... [more](https://github.com/Pilatch/my-resume/blob/master/Curriculum-Vitae.md#technology-experience)
 
-## Personal Projects
+## Example Projects
 
 ### [Pilatch Card Games](http://pilatch.com)
 
@@ -45,6 +45,12 @@ Apache Server, CSS, Drupal, Git, HTML, Java EE, JavaScript, JSP, Linux, Node, PH
 - [Created module for static asset management and performance](https://www.drupal.org/sandbox/beefzilla/2108701)
 - Formulated trigonometric animations for [the product page's](http://pilatch.com/cards) card arc
 - Developed JavaScript [demonstrations](https://pilatch.com/games/casual/Runway) library
+
+### [mPulse API Wide Data Range Analyzer](https://github.com/Pilatch/mPulse-client)
+
+- Accelerated production performance analysis
+- Sidestepped a limitation of the SOSTA mPulse web client by leveraging its API
+- Obviated Data Science Work Bench licensing costs
 
 ### [Poker-like game probability generator](https://github.com/Pilatch-Card-Games/game-sim )
 
@@ -59,11 +65,6 @@ Apache Server, CSS, Drupal, Git, HTML, Java EE, JavaScript, JSP, Linux, Node, PH
 ### TypeFun.org
 
 - Small social network for game development collaboration
-
-### [AssetLoader](https://github.com/Pilatch/AssetLoader/blob/master/README.md)
-
-- Experimented with managing front-end dependencies across many web sites
-- Published as a [Bower module](http://bower.io/search/?q=asset-loader)
 
 ## Education
 
