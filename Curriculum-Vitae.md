@@ -323,6 +323,7 @@ Sole author of two patents filed for eBay in 2015
 - SQLite 3
 - Sublime Text
 - Subversion
+- SVG
 - Test Driven Development
 - TestNG
 - Tiles
