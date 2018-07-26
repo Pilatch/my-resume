@@ -6,7 +6,8 @@ Web Architect supporting teams driven by innovation and collaboration
 
 ## Recent Employers
 
-- Comcast, 2016 - Present
+- Penn Mutual, 2017 - Present
+- Comcast, 2016 - 2017
 - eBay, 2010 - 2016
 - MetLife, 2009 - 2010
 - New Horizons, 2007 - 2009
@@ -18,6 +19,8 @@ Web Architect supporting teams driven by innovation and collaboration
 - Improved web application performance
 - Mitigated security risks
 - Addressed accessibility liabilities
+- Solved for productivity and compliance
+- Mentored junior developers
 
 ## Awards
 
@@ -35,7 +38,7 @@ Web Architect supporting teams driven by innovation and collaboration
 
 ## Technology
 
-Apache Server, CSS, Drupal, Elm, Git, HAL, HTML, Java EE, JavaScript, Linux, Node, PHP, Polymer, REST, Ruby, SASS, SQL, Tobii Studio... [more](https://github.com/Pilatch/my-resume/blob/master/Curriculum-Vitae.md#technology-experience)
+AngularJS, Apache Server, Bash, CSS, Drupal, Elm, Express, Git, HTML, Java EE, JavaScript, Linux, Node, OAuth, PHP, Polymer, REST, React, Redux, Ruby, SASS, SQL, Tobii Studio, TypeScript... [more](https://github.com/Pilatch/my-resume/blob/master/Curriculum-Vitae.md#technology-experience)
 
 ## Example Projects
 
@@ -56,15 +59,6 @@ Apache Server, CSS, Drupal, Elm, Git, HAL, HTML, Java EE, JavaScript, Linux, Nod
 
 - [Informed game design decisions](http://pilatch.com/blog/Ethan/Rags-n-Riches)
 - Solved a mathematically unsustainable problem
-
-### Drupal Recipe Content Module
-
-- Computed nutrition labels for users’ recipes by leveraging USDA ingredient data
-- Employed a web designer/developer
-
-### TypeFun.org
-
-- Small social network for game development collaboration
 
 ## Education
 

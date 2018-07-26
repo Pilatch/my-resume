@@ -7,15 +7,31 @@ Polyglot web software architect emphasizing results-based decision making, usabi
 
 ## Preferred Skills
 
-JavaScript, web components, Elm, Ruby, Java, usability testing, exhortation, game development
+Elm, JavaScript, web components, usability testing, exhortation, game development
 
 ## Employment
+
+### Penn Mutual
+
+#### Señor Web Developer
+
+##### 2017 - Present
+
+- Introduced linting, auto-formatting, unit testing, code reviews, and functional programming
+- Configured automatic verification of our flagship web application
+- Directed technology choices
+- Hosted technology learning sessions
+- Created web developer interview process
+- Mentored junior developers
+- Contributed to AngularJS, React, and Groovy / Spring Boot applications
+- Built proof-of-concepts in Elm
+- Improved developer productivity and reliability of functional tests via API-mocking
 
 ### Comcast
 
 #### Web Technology Consultant \(via TekSystems\)
 
-##### 2016 - Present
+##### 2016 - 2017
 
 - Defended egalitarian scrum culture from bottlenecks
 - Provided architectural guidance focused on productivity
@@ -231,6 +247,7 @@ Sole author of two patents filed for eBay in 2015
 - Agile Methodologies
 - AJAX
 - AMD
+- AngularJS
 - Ant
 - Atlassian Confluence
 - Atlassian Jira
@@ -245,11 +262,13 @@ Sole author of two patents filed for eBay in 2015
 - DocStrap
 - Dōjō
 - Drupal 6 & 7
+- Dvorak
 - Eclipse
 - ECMAScript 6
-- Elm
-- ESLint
+- Elm 0.18
+- ESLint 3 & 4
 - Expect
+- Express 4
 - FireFox
 - FishEye
 - Gerrit
@@ -263,12 +282,14 @@ Sole author of two patents filed for eBay in 2015
 - Gulp
 - HAL
 - HTML 4 & 5
+- Intern
 - Internet Explorer 6 - 11
 - Istanbul
 - Jasmine
 - Java
 - JavaScript
 - Jenkins
+- Jest
 - jGrouseDoc
 - jQuery
 - jQuery UI
@@ -293,6 +314,7 @@ Sole author of two patents filed for eBay in 2015
 - MySQL
 - Nightwatch
 - Node JS
+- OAuth
 - Open Stack
 - Opera
 - Oracle SQL 11
@@ -306,7 +328,9 @@ Sole author of two patents filed for eBay in 2015
 - Prototype
 - Pug
 - Rally
+- React
 - Red Hat Enterprise Linux 5 & 6
+- Redux
 - Responsive Web Design
 - REST
 - Ruby 1.9 – 2.3
@@ -329,6 +353,7 @@ Sole author of two patents filed for eBay in 2015
 - Tiles
 - Tobii Studio
 - Tomcat 7
+- TypeScript
 - Ubuntu Desktop & Server 10 - 14
 - Usability Hub
 - Web Accessability Evaluation Tool (WAVE)
@@ -336,6 +361,7 @@ Sole author of two patents filed for eBay in 2015
 - Windows XP & 7
 - Xen
 - XML
+- Yarn
 
 ## Formal Education
 
