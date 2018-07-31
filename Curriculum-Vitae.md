@@ -343,6 +343,7 @@ Sole author of two patents filed for eBay in 2015
 - Slack
 - SonarQube
 - SOSTA mPulse API
+- SourceTree
 - Spring
 - SQLite 3
 - Sublime Text
