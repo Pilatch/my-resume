@@ -17,15 +17,21 @@ Elm, JavaScript, web components, usability testing, exhortation, game developmen
 
 ##### 2017 - Present
 
-- Introduced linting, auto-formatting, unit testing, code reviews, and functional programming
+- Tightened the quality-assurance and development feedback loop through automated deployments
+- Introduced code reviews, testing-driven development, functional programming, auto-formatting and linting
 - Configured automatic verification of our flagship web application
 - Directed technology choices
 - Hosted technology learning sessions
 - Created web developer interview process
 - Mentored junior developers
+- Shaped the hiring process
+- Onboarded new developers
 - Contributed to AngularJS, React, and Groovy / Spring Boot applications
-- Built proof-of-concepts in Elm
-- Improved developer productivity and reliability of functional tests via API-mocking
+- Quickly built proof-of-concepts in Elm
+- Diagnosed and solved problems on multiple teams
+- Improved developer productivity and reliability of tests via API-mocking
+- Removed the necessity of long-lived branches in source control by implementing feature flags
+- Demonstrated how web components could support our visual style guide across different web applications
 
 ### Comcast
 
@@ -33,13 +39,13 @@ Elm, JavaScript, web components, usability testing, exhortation, game developmen
 
 ##### 2016 - 2017
 
+- Addressed accessibility liabilities before public launch
 - Defended egalitarian scrum culture from bottlenecks
 - Provided architectural guidance focused on productivity
 - Identified and facilitated solutions for technical debt
 - Improved feature development collaboration process
-- Wrote web application code using Polymer
 - Reviewed the majority of production code prioritizing a priori understandability
-- Addressed accessibility liabilities before public launch
+- Wrote web application code using Polymer
 - Codified style guide and review process
 - Guided developers in coding practices, organization, and code clarity
 - Solved and documented complex OAuth-related mobile device testing setup
@@ -107,6 +113,21 @@ Elm, JavaScript, web components, usability testing, exhortation, game developmen
 
 - Taught adults advanced applications, and beginner programming courses
 - Evaluated exceptionally for clarity of instruction and sense of humor ʕ•ᴥ•ʔ
+
+### Joe's Service Center
+
+#### Tow Truck Driver, AAA Call Sign 513-Foxtrot
+
+##### 2003 - 2007
+
+- Drove a manual-transmission six-forward-speed turbo-diesel Ford Super Duty deck truck very quickly to help people
+  - Never towed anyone who didn't want to be
+  - Never crashed my truck into a bright yellow parking-lot bollard like the idiot who "trained" me
+- Unlocked cars, performed extrications, changed and plugged tires, jumped and kick-started vehicles
+- Worked high-volume, twenty-six-hour weekend shifts that required rapid prioritization and adaptation with little or no guidance
+- Solved a wide variety of sometimes dangerous problems in all manners of weather
+- Only got pulled over by police twice
+  - Ticketed neither time
 
 ### Phi Delta Kappa, Montclair State University chapter
 
