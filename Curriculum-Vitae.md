@@ -24,7 +24,6 @@ Elm, JavaScript, web components, usability testing, exhortation, game developmen
 - Hosted technology learning sessions
 - Created web developer interview process
 - Mentored junior developers
-- Shaped the hiring process
 - Onboarded new developers
 - Contributed to AngularJS, React, and Groovy / Spring Boot applications
 - Quickly built proof-of-concepts in Elm
