@@ -21,7 +21,7 @@ Elm, JavaScript, web components, usability testing, exhortation, game developmen
 - Introduced code reviews, testing-driven development, functional programming, auto-formatting and linting
 - Configured automatic verification of our flagship web application
 - Directed technology choices
-- Hosted technology learning sessions
+- Hosted technology learning sessions ([example](https://github.com/Pilatch/grannys-alimentari))
 - Created web developer interview process
 - Mentored junior developers
 - Onboarded new developers
