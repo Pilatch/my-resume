@@ -37,6 +37,7 @@ Elm, JavaScript, web components, usability testing, exhortation, game developmen
 - Called attention to a low-affordance feature that benefited from usability testing
 - Pair programmed and swarmed tricky functionality
 - Maintained a process impromevents backlog
+- Built Android and iOS mobile applications
 
 ### Comcast
 
