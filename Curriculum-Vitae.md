@@ -27,15 +27,16 @@ Elm, JavaScript, web components, usability testing, exhortation, game developmen
 - Created web developer interview process
 - Mentored web developers
 - Onboarded new developers
-- Contributed to AngularJS, React, and Groovy / Spring Boot applications
+- Contributed to Angular, AngularJS, Express / Mongo, React, and Groovy / Spring Boot applications
 - Quickly built proof-of-concepts in Elm
 - Diagnosed and solved problems on multiple teams
-- Improved developer productivity and reliability of tests via API-mocking
+- Improved developer productivity and reliability of functional tests via API-mocking
 - Removed the necessity of long-lived branches in source control by implementing feature flags
 - Demonstrated how web components could support our visual style guide across different web applications
-- Mediated disagreement about public site unit test strategy
-- Recognized a low-affordance feature that benefited from usability testing
+- Mediated another team's disagreement about unit test strategy
+- Called attention to a low-affordance feature that benefited from usability testing
 - Pair programmed and swarmed tricky functionality
+- Maintained a process impromevents backlog
 
 ### Comcast
 
@@ -62,9 +63,6 @@ Elm, JavaScript, web components, usability testing, exhortation, game developmen
 
 ##### 2014 - 2016
 
-- Led sitewide performance improvement projects
-- Led a multi-client checkout flow performance improvement project
-  - analyzed performance improvements in production
 - Wrote performance testing tools for results-based optimization
   - integrated into our automated regression test modules
   - blocked commits that degraded performance
@@ -83,6 +81,19 @@ Elm, JavaScript, web components, usability testing, exhortation, game developmen
 - Presented a crash course in object oriented JavaScript to the other architects
 - Identified security liabilities inherent in our technology and culture
 - Reviewed client communications to improve technical accuracy
+- Interviewed, trained, and assisted junior developers
+- Presented approaches for mitigating cross-site scripting vulnerabilities
+- Presented iterative usability testing approach
+- Presented best practices for front-end performance
+- Presented compiler tools process
+- Evangelized front-end performance tools
+- Led sitewide performance improvement projects
+- Led a multi-client checkout flow performance improvement project
+  - analyzed performance improvements in production
+- Lead implementation of Inline Error Messaging project
+- Lead implementation of In-Store Pickup products
+- Lead implementation of credit card issuer identifying number system upgrades
+- Encouraged cross-organizational teamwork
 
 #### Web Developer 3
 
@@ -240,23 +251,7 @@ Elm, JavaScript, web components, usability testing, exhortation, game developmen
 
 Sole author of two patents filed for eBay in 2015
 
-## Leadership
-
-### eBay Enterprise
-
-- Recognized as the subject matter expert on the user-interface technology layer
-- Interviewed, trained, and assisted junior developers
-- Presented approaches for mitigating cross-site scripting vulnerabilities
-- Presented iterative usability testing approach
-- Presented best practices for front-end performance
-- Presented compiler tools process
-- Evangelized front-end performance tools
-- Lead implementation of Inline Error Messaging project
-- Lead implementation of In-Store Pickup products
-- Lead implementation of credit card issuer identifying number system upgrades
-- Encouraged cross-organizational teamwork
-
-### Other
+## Random Leadership Experience
 
 - Organized _Game Nite_ benefit for Hudson Pride Connections Center’s 2010 Haiti relief effort
 - Trained employees at AAA service center 513
