@@ -2,7 +2,7 @@
 
 ## Objective
 
-Web Architect supporting teams driven by innovation and collaboration
+Technical lead, manager, or web architect supporting teams driven by innovation and collaboration
 
 ## Recent Employers
 
@@ -20,7 +20,7 @@ Web Architect supporting teams driven by innovation and collaboration
 - Mitigated security risks
 - Addressed accessibility liabilities
 - Solved for productivity and compliance
-- Mentored junior developers
+- Mentored developers
 
 ## Awards
 

@@ -13,7 +13,7 @@ Elm, JavaScript, web components, usability testing, exhortation, game developmen
 
 ### Penn Mutual
 
-#### Señor Web Developer
+#### Technical Lead, Web Interface Team
 
 ##### 2017 - Present
 
@@ -21,9 +21,11 @@ Elm, JavaScript, web components, usability testing, exhortation, game developmen
 - Introduced code reviews, testing-driven development, functional programming, auto-formatting and linting
 - Configured automatic verification of our flagship web application
 - Directed technology choices
-- Hosted technology learning sessions ([example](https://github.com/Pilatch/grannys-alimentari))
+- Hosted technology learning sessions
+  - [Granny's Alimentari](https://github.com/Pilatch/grannys-alimentari)
+  - [Language Buffet](https://github.com/Pilatch/language-buffet/blob/master/language-buffet.pptx)
 - Created web developer interview process
-- Mentored junior developers
+- Mentored web developers
 - Onboarded new developers
 - Contributed to AngularJS, React, and Groovy / Spring Boot applications
 - Quickly built proof-of-concepts in Elm
@@ -31,6 +33,9 @@ Elm, JavaScript, web components, usability testing, exhortation, game developmen
 - Improved developer productivity and reliability of tests via API-mocking
 - Removed the necessity of long-lived branches in source control by implementing feature flags
 - Demonstrated how web components could support our visual style guide across different web applications
+- Mediated disagreement about public site unit test strategy
+- Recognized a low-affordance feature that benefited from usability testing
+- Pair programmed and swarmed tricky functionality
 
 ### Comcast
 
