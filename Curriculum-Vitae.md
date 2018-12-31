@@ -292,6 +292,7 @@ Sole author of two patents filed for eBay in 2015
 - Express 4
 - FireFox
 - FishEye
+- Foreman
 - Gerrit
 - Git
 - Github Enterprise
