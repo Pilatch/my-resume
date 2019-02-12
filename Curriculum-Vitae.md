@@ -205,6 +205,7 @@ Elm, JavaScript, web components, usability testing, exhortation, game developmen
 
 - [Informed game design decisions](http://pilatch.com/blog/Ethan/Rags-n-Riches)
 - Solved a mathematically unsustainable problem
+- [Awarded Reddit Gold by another game designer](https://www.reddit.com/r/tabletopgamedesign/comments/apgon8/working_on_my_first_game_rainbow_poker_and_would/eg9pcw4)
 
 ### [TypeFun.org](https://web.archive.org/web/20140105005006/http://typefun.org/)
 
