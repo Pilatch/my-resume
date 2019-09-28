@@ -7,15 +7,42 @@ Polyglot web software architect emphasizing results-based decision making, usabi
 
 ## Preferred Skills
 
-Elm, JavaScript, web components, usability testing, exhortation, game development
+JavaScript/TypeScript, virtual DOM, web components, Elm, usability testing, exhortation, patent research, public speaking
 
 ## Employment
 
-### Penn Mutual
+### Advisor Innovation Labs, Bryn Mawr PA
+
+#### Engineer
+
+##### 2019 - 2019
+
+- Wrote application code using:
+  - TypeScript
+  - React
+  - Spring Boot
+  - Querydsl
+  - SCSS
+  - MySQL
+  - Node
+  - Capacitor
+  - Okta
+  - Ramda
+  - Cypress
+  - Docker
+  - AWS S3
+  - Casium
+- Operated in a Kanban and "Extreme Ownership" environment
+- Simplified OAuth architecture to enable publishing iOS app
+- Performed patent research:
+  - Prior art discovery
+  - Proof-of-concept experimentation
+
+### Penn Mutual, Horsham PA
 
 #### Technical Lead, Web Interface Team
 
-##### 2017 - Present
+##### 2017 - 2019
 
 - Tightened the quality-assurance and development feedback loop through automated deployments
 - Introduced code reviews, testing-driven development, functional programming, auto-formatting and linting
@@ -39,7 +66,7 @@ Elm, JavaScript, web components, usability testing, exhortation, game developmen
 - Maintained a process impromevents backlog
 - Built Android and iOS mobile applications
 
-### Comcast
+### Comcast, Philadelphia PA
 
 #### Web Technology Consultant \(via TekSystems\)
 
@@ -58,7 +85,7 @@ Elm, JavaScript, web components, usability testing, exhortation, game developmen
 - Increased and enforced high unit test coverage
 - Improved integration tests
 
-### eBay Enterprise
+### eBay Enterprise, King of Prussia PA
 
 #### Web Architect
 
@@ -110,7 +137,7 @@ Elm, JavaScript, web components, usability testing, exhortation, game developmen
 - Researched competing technologies
 - Disentangled logic and presentation
 
-### MetLife
+### MetLife, Bridgewater NJ
 
 #### Web Developer
 
@@ -121,7 +148,7 @@ Elm, JavaScript, web components, usability testing, exhortation, game developmen
 - Wrote an internal JavaScript library to assist page design
   - enabled rapid generation of visual style-guide compliant mockups
 
-### New Horizons
+### New Horizons, Iselin NJ
 
 #### Senior Software Instructor
 
@@ -130,7 +157,7 @@ Elm, JavaScript, web components, usability testing, exhortation, game developmen
 - Taught adults advanced applications, and beginner programming courses
 - Evaluated exceptionally for clarity of instruction and sense of humor ʕ•ᴥ•ʔ
 
-### Joe's Service Center
+### Joe's Service Center, North Brunswick NJ
 
 #### Tow Truck Driver, AAA Call Sign 513-Foxtrot
 
@@ -138,7 +165,7 @@ Elm, JavaScript, web components, usability testing, exhortation, game developmen
 
 - Drove a manual-transmission six-forward-speed turbo-diesel Ford Super Duty deck truck very quickly to help people
   - Never towed anyone who didn't want to be
-  - Never crashed my truck into a bright yellow parking-lot bollard like the idiot who "trained" me
+  - Never crashed the truck
 - Unlocked cars, performed extrications, changed and plugged tires, jumped and kick-started vehicles
 - Worked high-volume, twenty-six-hour weekend shifts that required rapid prioritization and adaptation with little or no guidance
 - Solved a wide variety of sometimes dangerous problems in all manners of weather
@@ -277,10 +304,11 @@ Sole author of two patents filed for eBay in 2015
 - Bash 4
 - Bind 9
 - Bootstrap 3
-- Bower
+- Capacitor
 - Chrome
 - Compass
 - CSS 3
+- Cypress
 - DocStrap
 - Dōjō
 - Drupal 6 & 7
@@ -338,6 +366,7 @@ Sole author of two patents filed for eBay in 2015
 - Nightwatch
 - Node JS
 - OAuth
+- Okta
 - Open Stack
 - Opera
 - Oracle SQL 11
@@ -351,6 +380,7 @@ Sole author of two patents filed for eBay in 2015
 - PostCSS
 - Prototype
 - Pug
+- Querydsl
 - Rally
 - React
 - Red Hat Enterprise Linux 5 & 6
@@ -368,7 +398,7 @@ Sole author of two patents filed for eBay in 2015
 - SonarQube
 - SOSTA mPulse API
 - SourceTree
-- Spring
+- Spring Boot
 - SQLite 3
 - Sublime Text
 - Subversion

@@ -2,11 +2,12 @@
 
 ## Objective
 
-Technical lead, manager, or web architect supporting teams driven by innovation and collaboration
+Technical lead or web architect supporting teams driven by innovation and collaboration
 
 ## Recent Employers
 
-- Penn Mutual, 2017 - Present
+- Advisor Innovation Labs, 2019 - 2019
+- Penn Mutual, 2017 - 2019
 - Comcast, 2016 - 2017
 - eBay, 2010 - 2016
 - MetLife, 2009 - 2010
@@ -16,11 +17,12 @@ Technical lead, manager, or web architect supporting teams driven by innovation 
 
 - Designed and led large web-facing implementations
 - Conducted iterative usability testing
-- Improved web application performance
+- Improved web application performance and architecture
 - Mitigated security risks
 - Addressed accessibility liabilities
 - Solved for productivity and compliance
 - Mentored developers
+- Wrote and presented information sessions
 
 ## Awards
 
@@ -38,7 +40,7 @@ Technical lead, manager, or web architect supporting teams driven by innovation 
 
 ## Technology
 
-AngularJS, Apache Server, Bash, CSS, Drupal, Elm, Express, Git, HTML, Java EE, JavaScript, Linux, Node, OAuth, PHP, Polymer, REST, React, Redux, Ruby, SASS, SQL, Tobii Studio, TypeScript... [more](https://github.com/Pilatch/my-resume/blob/master/Curriculum-Vitae.md#technology-experience)
+AngularJS, Apache Server, Bash, CSS, Drupal, Elm, Express, Git, HTML, Java, JavaScript, Linux, Node, OAuth, PHP, Polymer, REST, React, Redux, Ruby, SASS, Spring Boot, SQL, Tobii Studio, TypeScript... [more](https://github.com/Pilatch/my-resume/blob/master/Curriculum-Vitae.md#technology-experience)
 
 ## Example Projects
 
