@@ -24,6 +24,8 @@ Technical lead or web architect supporting teams driven by innovation and collab
 - Mentored developers
 - Wrote and presented information sessions
 
+## [Curriculum Vitae](https://github.com/Pilatch/my-resume/blob/master/Curriculum-Vitae.md)
+
 ## Awards
 
 - _Critical Talent_
@@ -74,5 +76,3 @@ AngularJS, Apache Server, Bash, CSS, Drupal, Elm, Express, Git, HTML, Java, Java
 ### Rutgers University, New Brunswick, New Jersey
 
 #### Bachelor of Arts, 2006
-
-## [Curriculum Vitae](https://github.com/Pilatch/my-resume/blob/master/Curriculum-Vitae.md)
