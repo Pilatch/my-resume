@@ -29,14 +29,16 @@ JavaScript/TypeScript, virtual DOM, web components, Elm, usability testing, exho
   - Okta
   - Ramda
   - Cypress
+  - Spock
   - Docker
   - AWS S3
   - Casium
 - Operated in a Kanban and "Extreme Ownership" environment
-- Simplified OAuth architecture to enable publishing iOS app
+- Simplified OAuth architecture to enable publishing an iOS app
+- Advised developers on how to write more understandable code
 - Performed patent research:
   - Prior art discovery
-  - Proof-of-concept experimentation
+  - Proof-of-concept experimentation in Elm
 
 ### Penn Mutual, Horsham PA
 
@@ -46,8 +48,7 @@ JavaScript/TypeScript, virtual DOM, web components, Elm, usability testing, exho
 
 - Tightened the quality-assurance and development feedback loop through automated deployments
 - Introduced code reviews, testing-driven development, functional programming, auto-formatting and linting
-- Configured automatic verification of our flagship web application
-- Directed technology choices
+- Configured automatic verification of our flagship web application via Jenkins
 - Hosted technology learning sessions
   - [Granny's Alimentari](https://github.com/Pilatch/grannys-alimentari)
   - [Language Buffet](https://github.com/Pilatch/language-buffet/blob/master/language-buffet.pptx)
@@ -57,14 +58,15 @@ JavaScript/TypeScript, virtual DOM, web components, Elm, usability testing, exho
 - Contributed to Angular, AngularJS, Express / Mongo, React, and Groovy / Spring Boot applications
 - Quickly built proof-of-concepts in Elm
 - Diagnosed and solved problems on multiple teams
-- Improved developer productivity and reliability of functional tests via API-mocking
+- Improved developer productivity and reliability of functional tests via Express API mocking
 - Removed the necessity of long-lived branches in source control by implementing feature flags
 - Demonstrated how web components could support our visual style guide across different web applications
 - Mediated another team's disagreement about unit test strategy
 - Called attention to a low-affordance feature that benefited from usability testing
 - Pair programmed and swarmed tricky functionality
-- Maintained a process impromevents backlog
-- Built Android and iOS mobile applications
+- Maintained a process improvements backlog
+- Directed technology choices
+- Built Android and iOS mobile applications using Cordova
 
 ### Comcast, Philadelphia PA
 
@@ -72,7 +74,7 @@ JavaScript/TypeScript, virtual DOM, web components, Elm, usability testing, exho
 
 ##### 2016 - 2017
 
-- Addressed accessibility liabilities before public launch
+- Addressed accessibility liabilities before public launch of the xFi project
 - Defended egalitarian scrum culture from bottlenecks
 - Provided architectural guidance focused on productivity
 - Identified and facilitated solutions for technical debt
@@ -94,7 +96,7 @@ JavaScript/TypeScript, virtual DOM, web components, Elm, usability testing, exho
 - Wrote performance testing tools for results-based optimization
   - integrated into our automated regression test modules
   - blocked commits that degraded performance
-- Performed usability testing
+- Performed usability testing using Tobii Studio
 - Guided web-store remediation for _Americans with Disabilities Act_ compliance
 - Provided iterative mobile-first responsive design solution
 - Reviewed code
@@ -118,9 +120,9 @@ JavaScript/TypeScript, virtual DOM, web components, Elm, usability testing, exho
 - Led sitewide performance improvement projects
 - Led a multi-client checkout flow performance improvement project
   - analyzed performance improvements in production
-- Lead implementation of Inline Error Messaging project
-- Lead implementation of In-Store Pickup products
-- Lead implementation of credit card issuer identifying number system upgrades
+- Led implementation of Inline Error Messaging project
+- Led implementation of In-Store Pickup products
+- Led implementation of credit card issuer identifying number system upgrades
 - Encouraged cross-organizational teamwork
 
 #### Web Developer 3
