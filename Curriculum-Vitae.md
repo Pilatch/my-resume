@@ -1,21 +1,37 @@
 # Ethan B Martin
 ## [ethan@pilatch.com](ethan@pilatch.com)
 
-## Description
+## Objective
 
-Polyglot web software architect emphasizing results-based decision making, usability, team growth, and lucid communication
+Technical lead or user-experience architect supporting teams driven by data, collaboration and experimentation
 
 ## Preferred Skills
 
-JavaScript/TypeScript, virtual DOM, web components, Elm, usability testing, exhortation, patent research, public speaking
+Elm, web components, mentoring, JavaScript/TypeScript, usability testing, exhortation, patent research, public speaking
 
 ## Employment
+
+### Vanguard, Malvern PA
+
+#### Technical Lead 2
+
+##### 2019 - Current
+
+- Led implementations of public-facing web applications
+- Mentored developers
+- Recognized as a _Top Performer_ by senior management
+- Onboarded new technology into the enterprise ecosystem: Elm
+- Cut scope to make minimum viable products more minimal
+- Performed experiments against varying percentages of production traffic
+- Collaborated with designers, content strategists, product owners, analysts, architects
+- Analyzed and replaced legacy functionality
+- Organized a Dungeons and Dragons team-building event
 
 ### Advisor Innovation Labs, Bryn Mawr PA
 
 #### Engineer
 
-##### 2019 - 2019
+##### 2019
 
 - Wrote application code using:
   - TypeScript
@@ -293,16 +309,15 @@ Sole author of two patents filed for eBay in 2015
 
 - Active Record
 - Adaptive Web Design
-- Adobe Illustrator
-- Adobe Photoshop
+- Adobe: Illustrator, Launch, Photoshop
 - Agile Methodologies
 - AJAX
 - AMD
-- AngularJS
+- Angular
 - Ant
-- Atlassian Confluence
-- Atlassian Jira
+- Atlassian: BitBucket, Confluence, Jira
 - Apache 2
+- AWS: DynamoDB, ECS, S3 (Serverless front-ends)
 - Bash 4
 - Bind 9
 - Bootstrap 3
@@ -328,9 +343,8 @@ Sole author of two patents filed for eBay in 2015
 - Git
 - Github Enterprise
 - Gitlab
-- Google Analytics
-- Google Fonts
-- Google Gson
+- Google: Analytics, Fonts, Gson
+- GraphQL
 - Grunt
 - Gulp
 - HAL
@@ -357,11 +371,7 @@ Sole author of two patents filed for eBay in 2015
 - Lean Software Development
 - LESS
 - Meteor
-- Microsoft Access
-- Microsoft Excel
-- Microsoft Outlook
-- Microsoft PowerPoint
-- Microsoft Word
+- Microsoft: Access, Excel, Outlook, PowerPoint, Teams, Word
 - MiniTest
 - MongoDB
 - MySQL
@@ -374,6 +384,7 @@ Sole author of two patents filed for eBay in 2015
 - Oracle SQL 11
 - Oracle SQL Developer
 - OS X
+- NestJS
 - Nginx
 - Nightwatch
 - Nokogiri
@@ -396,6 +407,7 @@ Sole author of two patents filed for eBay in 2015
 - SASS (SCSS)
 - Selenium WebDriver (Java)
 - Sinatra
+- Sitespect
 - Slack
 - SonarQube
 - SOSTA mPulse API
@@ -415,7 +427,7 @@ Sole author of two patents filed for eBay in 2015
 - Usability Hub
 - Web Accessability Evaluation Tool (WAVE)
 - Weblogic 10
-- Windows XP & 7
+- Webstorm
 - Xen
 - XML
 - Yarn

@@ -2,11 +2,12 @@
 
 ## Objective
 
-Technical lead or web architect supporting teams driven by innovation and collaboration
+Technical lead or user-experience architect supporting teams driven by data, collaboration and experimentation
 
 ## Recent Employers
 
-- Advisor Innovation Labs, 2019 - 2019
+- Vanguard, 2019 - Current
+- Advisor Innovation Labs, 2019
 - Penn Mutual, 2017 - 2019
 - Comcast, 2016 - 2017
 - eBay, 2010 - 2016
@@ -16,6 +17,7 @@ Technical lead or web architect supporting teams driven by innovation and collab
 ## Work
 
 - Designed and led large web-facing implementations
+- Introduced new technology
 - Conducted iterative usability testing
 - Improved web application performance and architecture
 - Mitigated security risks
